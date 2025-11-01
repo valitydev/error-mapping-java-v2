@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.mapper.model;
+package dev.vality.adapter.common.v2.mapper.model;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.mapper.model;
+package dev.vality.adapter.common.v2.mapper.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
