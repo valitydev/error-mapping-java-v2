@@ -1,6 +1,6 @@
-package dev.vality.adapter.common.mapper;
+package dev.vality.adapter.common.v2.mapper;
 
-import dev.vality.adapter.common.mapper.model.Error;
+import dev.vality.adapter.common.v2.mapper.model.Error;
 import dev.vality.woody.api.flow.error.WRuntimeException;
 import org.junit.jupiter.api.Test;
 

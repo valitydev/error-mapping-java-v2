@@ -1,12 +1,12 @@
-package dev.vality.adapter.common.mapper;
+package dev.vality.adapter.common.v2.mapper;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import dev.vality.adapter.common.exception.ErrorMappingException;
-import dev.vality.adapter.common.mapper.model.Error;
-import dev.vality.adapter.common.mapper.model.MappingExceptions;
+import dev.vality.adapter.common.v2.exception.ErrorMappingException;
+import dev.vality.adapter.common.v2.mapper.model.Error;
+import dev.vality.adapter.common.v2.mapper.model.MappingExceptions;
 import dev.vality.damsel.domain.Failure;
 import dev.vality.geck.serializer.kit.tbase.TErrorUtil;
 import dev.vality.woody.api.flow.error.*;

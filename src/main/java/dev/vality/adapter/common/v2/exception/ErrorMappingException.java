@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.exception;
+package dev.vality.adapter.common.v2.exception;
 
 /**
  * Handy class for wrapping runtime {@code Exceptions} with a root cause.

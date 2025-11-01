@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>error-mapping-java-v2</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <packaging>jar</packaging>
 
     <name>error-mapping-java-v2</name>
@@ -40,6 +40,8 @@
     </scm>
 
     <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <jackson.version>2.17.1</jackson.version>
         <lombok.version>1.18.32</lombok.version>
         <geck.version>1.0.2</geck.version>
